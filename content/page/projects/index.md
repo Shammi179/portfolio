@@ -12,7 +12,14 @@ menu:
             icon: code
 ---
 
-### Applied Data Science Lab   
+### Netflix Data Analysis
+[![My Skills](https://img.shields.io/badge/Tableau-f8fbff?style=flat-square&logo=tableau&logoColor=black)](https://public.tableau.com/app/profile/shumaiya.akter.shammi/viz/NetflixDataAnalysis_16806306313430/Netflix)  
+A data analysis project for analysing the netflix data.
+<b>Keywords: Tableau</b>
+
+
+### Applied Data Science Lab  
+[![My Skills](https://img.shields.io/badge/Certification-f8fbff?style=flat-square&logo=credly&logoColor=black)](https://www.credly.com/badges/75a56a65-03f6-4ac0-bb7a-6d4044034cb4/public_url)  
 I have completed 8 projects in the Applied Data Science Lab organized by WorldQuant University. It was a great experience because it helped me to explore some new aspects of data science I did not acknowledge before. <b>Keywords: Data Analysis, Python, MongoDB, Machine Learning, API</b>
 
 ### Multi-class Fish Classification 
