@@ -7,7 +7,9 @@ menu:
         params:
             icon: user
 ---
-
+{{< image
+src="photo.png"
+alt="This is sample image" >}}
 
 <p style="color:#00bfa5;text-align:center;margin:auto;font-weight:800;font-size:25px;">Shumaiya Akter Shammi</p>
 <p style="color:#969598;text-align:center;margin:auto;font-weight:600;">Data Science Enthusiast, Researcher, Learner, Explorer</p>
