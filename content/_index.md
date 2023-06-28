@@ -42,5 +42,5 @@ I'm Shammi, and I'm passionate with the Python programming language. I am profic
 |---|---|
 |  <br> 2019-2022  | BSc in Computer Science and Engineering <br> **Daffodil International University** <br> CGPA: **4.00/4.00**   |
 | <br> 2017    | HSC From Science <br> **Central Women's College** <br> GPA: **5.00/5.00**    |
-| <br> 2015    | SSC From Science <br> **Shyampur Model School and College**  <br> GPA: **5.00/5.00**    |
+| <br> 2015    | SSC From Science <br> **Shaympur Model School & College**  <br> GPA: **5.00/5.00**    |
 
