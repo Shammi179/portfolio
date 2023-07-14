@@ -11,9 +11,12 @@ menu:
         params:
             icon: book
 ---
-<!-- #### A Substantial Deep Learning Approach for Classification of Local and Coastal Fish  
 
-🔗[DOI:Accepted]() -->
+
+#### A Substantial Deep Learning Approach for Classification of Local and Coastal Fish  
+
+S. Das, <b>S. A. Shammi</b>, and D. M. Raza, “A substantial deep learning approach for classification of local and coastal fish,” in Advanced Computing, Cham: Springer Nature Switzerland, 2023, pp. 362–373, isbn:978-3-031-35641-4. doi: 10.1007/978-3-031-35641-4_29 🔗[DOI:10.1007/978-3-031-35641-4_29](https://doi.org/10.1007/978-3-031-35641-4_29)
+
 
 #### A Comprehensive Roadmap on Bangla Text-Based Sentiment Analysis  
 
