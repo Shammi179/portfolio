@@ -13,6 +13,7 @@ menu:
 ---
 |   |   |
 |---|---|
+|2023     | **Create Charts and Dashboard using Google Sheets** <br> Basic functions and generate several charts to visualize data as well as dynamic dashboard creation. [Certification](https://coursera.org/share/25892dbce39e17a38a962dfd2a605a5a)    |
 |2023     | **Introduction to Microsoft Excel** <br> Coursera Project Network. [Certification](https://coursera.org/share/4352893b1654bf085870205b40fbdf52)    |
 |2023     | **Applied Data Science Lab** <br> Got certification for completing 8 projects about data science. [Certification](https://www.credly.com/badges/75a56a65-03f6-4ac0-bb7a-6d4044034cb4/public_url)    |
 |2019 - 2022     | **DIU Merit Based Scholarship** <br> Got scholarship for all the 12 semesters at my university based on academic result.    |
