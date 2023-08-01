@@ -1,6 +1,6 @@
 ---
 title: Publications
-description: Research Interest - Natural Language Processing (NLP), Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI), Computer Vision
+description: Research Interest - Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI), Bioinformatics, Computer Vision, Natural Language Processing (NLP)
 # date: '2019-02-28'
 aliases:
   - projects
