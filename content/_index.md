@@ -27,7 +27,7 @@ alt="This is sample image" >}}
 
 
 Hello,
-I'm Shammi, and I'm passionate with the Python programming language. I am proficient in C, C++, Java, and Python. I am a data science enthusiast and interested in research. I have three publications and am working on getting more. Furthermore, I am a leader because I have worked with and led several teams. I have the patience to learn new things and the will to tackle everything honestly.
+I'm Shammi, and I'm passionate with the Python programming language. I am proficient in C, C++, Java, and Python. I am a data science enthusiast and interested in research. I have three publications and am working for more. Furthermore, I am a leader because I have worked with and led several teams. I have the patience to learn new things and the will to tackle everything honestly.
 
 <b>Mail: [shumaiyaaktershammi@gmail.com](mailto:shumaiyaaktershammi@gmail.com)</b>  
 <b>Phone: +8801843441269, +8801537751898</b>  
