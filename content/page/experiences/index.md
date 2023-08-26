@@ -15,7 +15,7 @@ menu:
 
 |   |   |
 |---|---|
-|May 2023 – July 2023   | **Apon Bazaar** <br> Jr. Data Analyst |
+|May 2023 – July 2023   | **AponTech Limited** <br> Jr. Data Analyst |
 |Feb 2021 – Aug 2021     | **Apurba-DIU Research and Development Lab** <br> Doccument Processing Engineer (Trainee)    |
 |Nov 2020 – Jan 2021   | **Apurba-DIU Research and Development Lab** <br> Intern |
 
