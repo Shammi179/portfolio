@@ -33,7 +33,7 @@ I'm Shammi, and I'm passionate with the Python programming language. I am profic
 <b>Phone: +8801843441269, +8801537751898</b>  
 <b>Address: Dhaka, Bangladesh</b>
 
-#### Resume: [Resume](https://drive.google.com/file/d/1vI6Hsn1rabob6UGj-K_Sn32tb7uNxcOg/view?usp=sharing) &nbsp; || &nbsp; [CV](https://drive.google.com/file/d/1j9NpLsTRq7zm56HuslYP7bnLBspCjeUc/view?usp=sharing)
+#### Explore: [Resume](https://drive.google.com/file/d/1vI6Hsn1rabob6UGj-K_Sn32tb7uNxcOg/view?usp=sharing) &nbsp; || &nbsp; [CV](https://drive.google.com/file/d/1j9NpLsTRq7zm56HuslYP7bnLBspCjeUc/view?usp=sharing)
 
 ### Education
 
