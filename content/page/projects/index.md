@@ -27,7 +27,7 @@ I have completed 8 projects in the Applied Data Science Lab organized by WorldQu
 A Deep Learning algorithm known as Convolutional Neural Network (CNN) is utilized to classify 12 fish species. Data augmentation helps to learn the structure of data in this work.
 <b>Keywords: Deep Learning, CNN</b> 
 
-### VRant 
+### VRant 🔗[Website](https://vrant.000webhostapp.com/) 
 [![My Skills](https://img.shields.io/badge/GitHub-f8fbff?style=flat-square&logo=github&logoColor=black)](https://github.com/Shammi179/VRant)  
 Using this web app, a user can get the feeling of a virtual restaurant. We will help people to get healthy and nutritious foods through our website.
 <b>Keywords: HTML, CSS, Java Script, PHP</b> 
@@ -47,7 +47,7 @@ This project is about Student Information System using Python and here we have c
 This is a project of making our passwords safer. This program can generate password randomly and which includes uppercase letters, lowercase letters, symbols, numbers and this convention of making password will make our information safer.
 <b>Keywords: Python, Tkinter</b>  
 
-### Toosmart 🔗[Website](https://www.toosmart.ml/)  
+### Toosmart 🔗[Website](https://toosmart.vercel.app/)  
 [![My Skills](https://img.shields.io/badge/GitHub-f8fbff?style=flat-square&logo=github&logoColor=black)](https://github.com/Shammi179/TooSmart)  
 Quickly capture what’s on your mind and get a reminder later at the right place or time. Easily plan the day or any surprising moment. TooSmart makes it easy to capture any thought or To-Do list for yourself, and share it with your friends and family.
 <b>Keywords: Java, Android App Development</b> 
