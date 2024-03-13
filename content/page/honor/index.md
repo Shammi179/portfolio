@@ -13,6 +13,7 @@ menu:
 ---
 |   |   |
 |---|---|
+|2024     | **Chancellor's Gold Medalist** <br> Awarded for being the top graduate at Daffodil International University.    |
 |2023     | **SQL for Data Science: University of California, Davis** <br> Advance SQL queries, data manipulation, problem solving with data, data analysis and interpretation. [Certification](https://coursera.org/share/5ccbe25a05a66d413f4fd7b658988ff8)    |
 |2023     | **Machine Learning with Python: IBM** <br> Different ML algorithm exploration and performed related project works on classification, regression, and clustering. [Certification](https://coursera.org/share/f0c8124625495a812465bc7393917815)    |
 |2023     | **Deep Learning with PyTorch - Image Segmentation: Coursera** <br> Performed Image Segmentation Task. [Certification](https://coursera.org/share/23d1f90b78230464760aa1d075c626ab)    |
