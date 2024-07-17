@@ -11,7 +11,13 @@ menu:
         params:
             icon: book
 ---
+#### MONOVAB : An Annotated Corpus for Bangla Multi-label Emotion Detection
 
+S. K. Banshal, S. Das, <b>S. A. Shammi</b>, and N. R. Chakraborty “MONOVAB : An Annotated Corpus for Bangla Multi-label Emotion Detection,” Under Review. 🔗[Link:arxiv.org/abs/2309.15670](https://arxiv.org/abs/2309.15670)
+
+#### Exploring the Relationship between Cardiac Disease and Patterns of 12-Lead Ecg Through Neural Network: A Comprehensive Review 
+
+A. Sufiun, N. R. Chakraborty, <b>S. A. Shammi</b> and S. K. Banshal, “Exploring the relationship between cardiac disease and patterns of 12-lead ecg through neural network: A comprehensive review,” Accepted on Advances in Systems Science and Applications. 🔗[Link:researchgate.net/publication/371709894](https://www.researchgate.net/publication/371709894)
 
 #### A Substantial Deep Learning Approach for Classification of Local and Coastal Fish  
 
