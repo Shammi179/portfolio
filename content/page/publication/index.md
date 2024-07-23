@@ -17,7 +17,7 @@ S. K. Banshal, S. Das, <b>S. A. Shammi</b>, and N. R. Chakraborty “MONOVAB : A
 
 #### Exploring the Relationship between Cardiac Disease and Patterns of 12-Lead ECG Through Neural Network: A Comprehensive Review 
 
-A. Sufian, N. Chakraborty, <b>S. Shammi</b>, and S. Banshal, “Exploring the Relationship between Cardiac Disease and Patterns of 12-Lead ECG through Neural Network: A Comprehensive Review”, ASSA, vol. 24, no. 02, pp. 66-93, Jul. 2024. 🔗[DOI: doi.org/10.25728/assa.2024.2024.02.1601](https://doi.org/10.25728/assa.2024.2024.02.1601)
+A. Sufian, N. Chakraborty, <b>S. Shammi</b>, and S. Banshal, “Exploring the Relationship between Cardiac Disease and Patterns of 12-Lead ECG through Neural Network: A Comprehensive Review”, ASSA, vol. 24, no. 02, pp. 66-93, Jul. 2024. 🔗[DOI: doi.org/10.25728/assa.2024.2024.02.1601](https://ijassa.ipu.ru/index.php/ijassa/article/view/1601)
 
 #### A Substantial Deep Learning Approach for Classification of Local and Coastal Fish  
 
