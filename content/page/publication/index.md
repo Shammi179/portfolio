@@ -11,7 +11,7 @@ menu:
         params:
             icon: book
 ---
-#### MONOVAB : Advances in Artificial Intelligence and Blockchain Technologies for Early Detection of Human Diseases
+#### Advances in Artificial Intelligence and Blockchain Technologies for Early Detection of Human Diseases
 
 S. A. Shammi, P. Ghosh, A. Sutradhar, F. M. J. M. Shamrat, M. A. Moni, and T. E. A. d. Oliveira,
 “Advances in artificial intelligence and blockchain technologies for early detection of human diseases,” IEEE Transactions on Computational Social Systems, pp. 1–28, 2024. 🔗[DOI: 10.1109/TCSS.2024.3449748](https://doi.org/10.1109/TCSS.2024.3449748)
