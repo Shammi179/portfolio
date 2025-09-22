@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Shumaiya Akter Shammi</title>
-        <link>http://localhost:1313/page/</link>
+        <link>http://localhost:1313/portfolio/page/</link>
         <description>Recent content in Pages on Shumaiya Akter Shammi</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-us</language><atom:link href="http://localhost:1313/portfolio/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Experiences</title>
-        <link>http://localhost:1313/experiences/</link>
+        <link>http://localhost:1313/portfolio/experiences/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/experiences/</guid>
+        <guid>http://localhost:1313/portfolio/experiences/</guid>
         <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -41,10 +41,10 @@
         </item>
         <item>
         <title>Honor &amp; Certification</title>
-        <link>http://localhost:1313/honor-certification/</link>
+        <link>http://localhost:1313/portfolio/honor-certification/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/honor-certification/</guid>
+        <guid>http://localhost:1313/portfolio/honor-certification/</guid>
         <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -123,10 +123,10 @@
         </item>
         <item>
         <title>Projects</title>
-        <link>http://localhost:1313/projects/</link>
+        <link>http://localhost:1313/portfolio/projects/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/projects/</guid>
+        <guid>http://localhost:1313/portfolio/projects/</guid>
         <description>&lt;h3 id=&#34;netflix-data-analysis&#34;&gt;Netflix Data Analysis&lt;/h3&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://public.tableau.com/app/profile/shumaiya.akter.shammi/viz/NetflixDataAnalysis_16806306313430/Netflix&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;img src=&#34;https://img.shields.io/badge/Tableau-f8fbff?style=flat-square&amp;amp;logo=tableau&amp;amp;logoColor=black&#34;
@@ -286,10 +286,10 @@ With the advancement of technology especially in Robotics it is very much possib
         </item>
         <item>
         <title>Publications</title>
-        <link>http://localhost:1313/publications/</link>
+        <link>http://localhost:1313/portfolio/publications/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/publications/</guid>
+        <guid>http://localhost:1313/portfolio/publications/</guid>
         <description>&lt;h4 id=&#34;advances-in-artificial-intelligence-and-blockchain-technologies-for-early-detection-of-human-diseases&#34;&gt;Advances in Artificial Intelligence and Blockchain Technologies for Early Detection of Human Diseases&lt;/h4&gt;
 &lt;p&gt;S. A. Shammi, P. Ghosh, A. Sutradhar, F. M. J. M. Shamrat, M. A. Moni, and T. E. A. d. Oliveira,
 “Advances in artificial intelligence and blockchain technologies for early detection of human diseases,” IEEE Transactions on Computational Social Systems, pp. 1–28, 2024. 🔗&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1109/TCSS.2024.3449748&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
