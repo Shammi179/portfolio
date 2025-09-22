@@ -1,0 +1,4 @@
+
+{{ $sass := resources.Get "scss/style.scss" | css.Sass (dict "targetPath" "css/style.css") }}
+{{ $style := $sass | resources.Minify | resources.Fingerprint "sha256" }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
