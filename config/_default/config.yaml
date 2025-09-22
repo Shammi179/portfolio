@@ -1,7 +1,8 @@
 baseurl: https://shammi.netlify.app/
 languageCode: en-us
 theme: hugo-theme-stack
-paginate: 5
+pagination:
+    pagerSize: 5
 title: Shumaiya Akter Shammi
 
       
